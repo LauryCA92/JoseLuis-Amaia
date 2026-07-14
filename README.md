@@ -1,1 +1,2 @@
-# JoseLuis-Amaia
+# José Luis & Amaia
+Proyecto inicial.
