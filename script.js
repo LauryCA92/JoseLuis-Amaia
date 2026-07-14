@@ -1,1 +1,0 @@
-const boda=new Date("2027-05-29T12:00:00").getTime();setInterval(()=>{let d=boda-Date.now();let dias=Math.floor(d/86400000);document.getElementById("countdown").textContent=`Faltan ${dias} días`;},1000);
