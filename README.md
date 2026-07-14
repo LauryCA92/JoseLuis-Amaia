@@ -1,2 +1,1 @@
-# José Luis & Amaia
-Proyecto inicial.
+Version 2

@@ -1,0 +1,1 @@
+const map=L.map('map').setView([37.9958,-3.4693],15);L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{attribution:'© OSM'}).addTo(map);L.marker([37.9958,-3.4693]).addTo(map).bindPopup('Palacio de los Salcedo');
